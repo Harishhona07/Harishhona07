@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harish Hona</h1>
 <h3 align="center">A passionate web developer from Nepal.</h3>
 
-<img align="right" alt="Heisenberg" width="400" src="https://media.wired.com/photos/5b334f9e9d1e257421a54a87/master/w_1600%2Cc_limit/bbwired.gif">
+<img align="right" alt="Heisenberg" width="400" src="https://i.gifer.com/AGXN.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishhona07&label=Profile%20views&color=0e75b6&style=flat" alt="harishhona07" /> </p>
 
