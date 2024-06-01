@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Harishhona07/Harishhona07/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Harish Hona</h1>
 <h3 align="center">A passionate web developer from Nepal.</h3>
 
