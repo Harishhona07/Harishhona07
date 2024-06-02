@@ -10,8 +10,6 @@
 
 - 📝 I write articles on [https://harishhona.com.np/blog](https://harishhona.com.np/blog)
 
-- 📄 Know about my experiences [https://harishhona.com.np/Resume%20-%20Harish%20Hona.pdf](https://harishhona.com.np/Resume%20-%20Harish%20Hona.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harish-hona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-hona" height="30" width="40" /></a>
