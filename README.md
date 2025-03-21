@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://harishhona.com.np/porfolio](https://harishhona.com.np/portfolio)
 
-- 📝 I write articles on [https://harishhona.com.np/blog](https://harishhona.com.np/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
