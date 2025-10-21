@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Harishhona07/Harishhona07/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Harish Hona</h1>
-<h3 align="center">I code until my satisfaction.</h3>
+<h3 align="center">I keep coding until the code feels just right.</h3>
 
 <img align="right" alt="Heisenberg" width="400" src="https://media.wired.com/photos/5b334f9e9d1e257421a54a87/master/w_1600%2Cc_limit/bbwired.gif">
 
