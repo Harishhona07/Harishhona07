@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishhona07&label=Profile%20views&color=0e75b6&style=flat" alt="harishhona07" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://harishhona.com.np/porfolio](https://harishhona.com.np/portfolio)
+- 👨‍💻 All of my projects are available at [https://harishhona.com.np/portfolio](https://harishhona.com.np/portfolio)
 
 
 <h3 align="left">Connect with me:</h3>
